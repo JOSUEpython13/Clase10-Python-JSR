@@ -16,3 +16,4 @@ precios = [precio for nombre,precio in lista_compra]
 print(precios)
 print(promedio(precios))
 print(mediana(precios))
+
